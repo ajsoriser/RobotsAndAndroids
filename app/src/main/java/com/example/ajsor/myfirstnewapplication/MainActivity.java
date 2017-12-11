@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Display(){
-
+    //Define fields
         Button cmdEnter = findViewById(R.id.btnEnter);
         final EditText txtInput = findViewById(R.id.txtInput);
         final TextView lblDisplay = findViewById(R.id.lblDisplay);
